@@ -17,7 +17,7 @@ The Password Strength Checker is designed to assess the strength of a password b
 ## How to Run
 
 1. **Install Python**: Ensure you have Python installed on your machine.
-2. **Clone the Repository**: Use the following command to clone the repository: git clone https://github.com/ninihub1/Password-Strenght-Checker.git
+2. **Clone the Repository**: Use the following command to clone the repository: git clone https://github.com/ninihub1/Password-Strength-Checker.git
 3. **Run the Script**: Navigate to the project directory and run the script using: `python password_checker.py`
 
 
